@@ -17,6 +17,9 @@ All SCA reports show no dependencies and 0 vulnerabilities
 0 Medium severity
 0 Low severity
 
+##SAST results (code security checks)
+No vulnerabilities
+
 ##Recommendations
 Priority 1 - DAST findings
 Add feature polity header
@@ -24,8 +27,5 @@ Remove server version leakage
 Add cache control header
 
 Priority 2
-Add codeQl
-
-Priority 3
 Add SBOM
 Pi

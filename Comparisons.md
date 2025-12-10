@@ -4,7 +4,7 @@
 10048 - Cache-control header missing
 
 # Only CodeQL (SAST found)
-No CodeQL
+No vulnerabilities
 
 # Only Dependency-check (SCA found)
 No vulnerabilities
